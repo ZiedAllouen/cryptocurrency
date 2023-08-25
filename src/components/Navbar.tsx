@@ -13,9 +13,7 @@ const Navbar = () => {
                   Crypto
                 </Link>
             </Typography.Title>
-            {/* <Button className="menu-control-container">
 
-            </Button> */}
         </div>
         <Menu theme="dark">
           <Menu.Item icon={<HomeOutlined/>} >
