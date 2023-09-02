@@ -26,7 +26,7 @@ function App() {
 
         <div className="footer">
           <Typography.Title level={5} style={{ color: "white", textAlign: "center" }}>
-            CrypTounsi <br />
+            Cryp-Tounsi <br />
             Rights reserved &copy; {new Date().getFullYear()}
           </Typography.Title>
           <Space>
